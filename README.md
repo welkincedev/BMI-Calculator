@@ -2,12 +2,6 @@
 
 A modern and responsive **BMI Calculator** built using **Flutter**. The application calculates Body Mass Index (BMI), classifies the user's health status, and stores BMI history locally using **SharedPreferences**. State management is implemented with **Riverpod**, following a clean and scalable architecture.
 ---
-<img width="377" height="651" alt="Screenshot 2026-07-08 013014" src="https://github.com/user-attachments/assets/7fb63554-74d0-4df9-95c8-96b1cd5ccf02" />
-<img width="377" height="651" alt="Screenshot 2026-07-07 063643" src="https://github.com/user-attachments/assets/467c95fd-07d3-49fa-8416-d32da7eb79c9" />
-<img width="377" height="651" alt="Screenshot 2026-07-08 013031" src="https://github.com/user-attachments/assets/3480fd21-daa3-499e-b9aa-5dd618998132" />
-<img width="377" height="651" alt="Screenshot 2026-07-07 063725" src="https://github.com/user-attachments/assets/1000d313-3065-4350-a2b4-3ee9f32ff58e" />
-
----
 
 ## 📱 Features
 
@@ -30,11 +24,11 @@ A modern and responsive **BMI Calculator** built using **Flutter**. The applicat
 
 ## 📸 Screenshots
 
-> Add your screenshots here.
+<img width="377" height="651" alt="Screenshot 2026-07-08 013014" src="https://github.com/user-attachments/assets/7fb63554-74d0-4df9-95c8-96b1cd5ccf02" />
+<img width="377" height="651" alt="Screenshot 2026-07-07 063643" src="https://github.com/user-attachments/assets/467c95fd-07d3-49fa-8416-d32da7eb79c9" />
+<img width="377" height="651" alt="Screenshot 2026-07-08 013031" src="https://github.com/user-attachments/assets/3480fd21-daa3-499e-b9aa-5dd618998132" />
+<img width="377" height="651" alt="Screenshot 2026-07-07 063725" src="https://github.com/user-attachments/assets/1000d313-3065-4350-a2b4-3ee9f32ff58e" />
 
-| Splash Screen | Home Screen | History Screen |
-|---------------|-------------|----------------|
-| Screenshot | Screenshot | Screenshot |
 
 ---
 
